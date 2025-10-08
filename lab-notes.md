@@ -1,9 +1,11 @@
 # Lab Notes
 ## What we did today
 
-**- Created Lab repository on Github
-- Cloned to our local computer
-- Learned Markdown Syntax**
+- **Created Lab repository on Github**
+- *Cloned to our local computer*
+- 'Learned Markdown Syntax'
+
+
 **Bold Text**
 *Italic Text*
 'Inline Code' 
