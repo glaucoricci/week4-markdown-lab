@@ -15,3 +15,6 @@
 2. Second Step
 [Visit GitHub] (https://github.com)
 
+# Jomehl's Contribution
+
+- Added a new bullet point.
