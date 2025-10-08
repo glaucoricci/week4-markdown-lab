@@ -1,12 +1,12 @@
 # Lab Notes
 ## What we did today
 
-- Created Lab repository on Github
+**- Created Lab repository on Github
 - Cloned to our local computer
-- Learned Markdown Syntax
-** Bold Text **
-* Italic Text *
-' Inline Code' 
+- Learned Markdown Syntax**
+**Bold Text**
+*Italic Text*
+'Inline Code' 
 
 ## A Numbered List 
 1. First Step
